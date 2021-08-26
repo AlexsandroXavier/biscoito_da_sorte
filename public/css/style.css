@@ -1,0 +1,80 @@
+.img{
+    background-image:url(/img/Prancheta1@4x.png);
+    background-size: 100%;
+}
+
+.cabeca{
+    padding-top: 75px;
+}
+
+.corpo{
+    padding-top: 50px;
+    
+}
+
+.logo {
+    width: 10em;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dono {
+    position: relative;
+    padding-top: 125px;
+    width: 100%;
+    
+}
+
+#conteudo{
+    resize: none;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+.form-signin input[type="text"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.footer {
+    position:fixed;
+    bottom:0;
+    width:100%; 
+}
+.redes{
+    text-align: center;
+    margin: auto;
+}
+
+.redes li{
+    display: inline;
+    margin-right: 20px;
+}
+
+.redes img{
+    width: 24px;
+}
+
+.fim{
+    margin-top: 100px;
+}
